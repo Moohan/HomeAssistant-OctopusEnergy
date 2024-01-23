@@ -1,6 +1,6 @@
 blueprint:
   name: Octopus Energy - Rates updated
-  description: Alerts the user that the rate for a given energy source has updated
+  description: Alerts the user that the rate for a given energy source has been updated
   domain: automation
   author: BottlecapDave
 
